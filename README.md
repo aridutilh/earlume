@@ -2,7 +2,7 @@
 
 Want to preserve your loved one's voices for eternity? Narrate anything using the a voice imprint that can be made in as little as 10 minutes of audio samples. Easy as pie.
 
-## 🤔 Why did u build this?
+## 🤔 Why did I build this?
 I applied for [TKS](https://tks.world) and was accepted to apply for a full ride scholarship. The challenge is to solve a problem using emerging technologies in 14 days, so I chose artificial intelligence and got straight to work on this concept.
 
 ## 🧰 Stack

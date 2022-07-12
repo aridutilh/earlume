@@ -12,10 +12,11 @@ I applied for [TKS](https://tks.world) and was accepted to apply for a full ride
 
 ## 💨 Flow
 - Record an audio sample with Overdub by Descript
+- Get your voice id from them
 - Upload your eBook in PDF format
 - PDF gets converted into text
 - Text gets plugged into Overdub's API
-- Download dub .mp3 audio file
+- Download your .mp3 audio file
 
 
 ## 👀 What does this thing look like?

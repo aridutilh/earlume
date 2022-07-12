@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Poppins:wght@400;500;600&display=swap");
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+/* Your own custom component styles */
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.font-kronaOne {
+  font-family: "Krona One", sans-serif;
+}
+
+.gradient {
+  background: linear-gradient(
+    88.3deg,
+    #c82cff -0.23%,
+    #ff50a7 56.98%,
+    #ff3535 102.43%
+  );
+}
+
+.textGradient {
+  background: linear-gradient(
+    88.3deg,
+    #c82cff -0.23%,
+    #ff50a7 56.98%,
+    #ff3535 102.43%
+  );
+
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@import "tailwindcss/utilities";

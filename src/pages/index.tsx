@@ -75,7 +75,7 @@ export default function Home() {
             {/* Step One */}
             <Step title={"Add Voice Sample"} number={1}>
               <span className="">
-                Click <Link href={"https://descript.com"} text={"here"} /> to
+                Click <Link href={"https://www.descript.com/overdub"} text={"here"} /> to
                 create your voice sample. You will shortly recieve a "Voice ID"
                 via email. Please enter that here.
               </span>
@@ -90,7 +90,7 @@ export default function Home() {
             </Step>
 
             {/* Step Two */}
-            <Step title={"Upload Story"} number={2}>
+            <Step title={"Upload "} number={2}>
               <span className="">
                 Upload your story in a PDF format (Must be under 1000
                 characters).
@@ -122,7 +122,7 @@ export default function Home() {
                     Processing
                   </div>
                 ) : (
-                  "Make My AudioBook!"
+                  "Make Some Magic ✨"
                 )}
               </Button>
             </Step>

@@ -76,8 +76,8 @@ export default function Home() {
             <Step title={"Add Voice Sample"} number={1}>
               <span className="">
                 Click <Link href={"https://www.descript.com/overdub"} text={"here"} /> to
-                create your voice sample. You will shortly recieve a "Voice ID"
-                via email. Please enter that here.
+                create your voice sample. You'll recieve a "Voice ID"
+                via email from them. Please enter that here.
               </span>
 
               <Input

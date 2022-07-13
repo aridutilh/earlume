@@ -20,5 +20,5 @@ I applied for [TKS](https://tks.world) and was accepted to apply for a full ride
 
 
 ## 👀 What does this thing look like?
-<img width="1440" alt="Screenshot 2022-07-12 at 14 28 59" src="https://user-images.githubusercontent.com/48355895/178568046-07737905-e85e-4c96-87f9-7c6bce15ff6c.png">
+<img width="1440" alt="Screenshot 2022-07-13 at 14 22 03" src="https://user-images.githubusercontent.com/48355895/178803959-c073c297-b311-4cf8-9e09-21bbe9e7a23f.png">
 wow very nice

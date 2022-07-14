@@ -8,7 +8,7 @@ export const Header = () => (
 
       <GiFairyWand className="text-[2.3rem] text-pink-400" />
 
-      <h1 className="font-kronaOne text-[1.8rem]">earlume</h1>
+      <h1 className="font-kronaOne text-[1.8rem]">Earlume</h1>
     </div>
 
     {/* Description */}

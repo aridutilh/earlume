@@ -4,7 +4,7 @@ Want to preserve your loved one's voices for eternity? Narrate anything using th
 
 ## 🤔 Why did I build this?
 I applied for [TKS](https://tks.world) and was accepted to apply for a full ride scholarship. The challenge is to solve a problem using emerging technologies in 14 days, so I chose artificial intelligence and got straight to work on this concept.
-
+**UPDATE: I got accepted!**
 ## 🧰 Stack
 - Typescript
 - Next
